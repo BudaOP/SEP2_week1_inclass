@@ -39,7 +39,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Main</mainClass>
+                            <mainClass>com.example.ShoppingCart</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
